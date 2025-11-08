@@ -1,0 +1,10 @@
+{
+  "name": "InfinityEra",
+  "version": "1.0.0",
+  "description": "Static HTML/CSS/JS website",
+  "scripts": {
+    "build": "echo 'No build needed for static HTML site'"
+  },
+  "author": "Adarsh Behera",
+  "license": "MIT"
+}
