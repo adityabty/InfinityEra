@@ -1,4 +1,5 @@
+# netlify.toml
 [build]
-  base = "frontend"         # yahan folder ka naam daalo jahan package.json hai
-  publish = "frontend/build" # yahan build output folder daalo (React: build, Vite: dist)
-  command = "npm run build"
+  base = "InfinityEra"          # points to your project folder
+  publish = "InfinityEra"       # folder to publish (for static HTML/CSS/JS)
+  command = "echo 'No build needed'"  # static HTML site doesn’t need a build
