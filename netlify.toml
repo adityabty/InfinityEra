@@ -1,0 +1,4 @@
+[build]
+  base = "frontend"         # yahan folder ka naam daalo jahan package.json hai
+  publish = "frontend/build" # yahan build output folder daalo (React: build, Vite: dist)
+  command = "npm run build"
