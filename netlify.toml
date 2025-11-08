@@ -1,0 +1,4 @@
+[build]
+base = "InfinityEra"
+publish = "InfinityEra"
+command = "echo 'No build needed'"
