@@ -1,5 +1,0 @@
-# netlify.toml
-[build]
-  base = "InfinityEra"          # points to your project folder
-  publish = "InfinityEra"       # folder to publish (for static HTML/CSS/JS)
-  command = "echo 'No build needed'"  # static HTML site doesn’t need a build
